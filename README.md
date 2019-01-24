@@ -1,4 +1,4 @@
-Nemesis
+# Nemesis for AEQ
 =======
 
 Everquest Nemesis UI
